@@ -1,0 +1,7 @@
+{
+  "name": "MGAI",
+  "description": "A sleek and responsive chatbot powered by the Gemini API to answer any of your questions with a beautiful, modern chat interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
